@@ -1,4 +1,4 @@
-# Machine Learning project source for all ML enthusiasts.
+# 💻 Machine Learning project source for all ML enthusiasts.
 ♦️ Made all the folders are in a very structured manner keeping in mind that you can flow through this repo easily.
 
 ♦️ Will Keep Updating this repository so you keep an eye here.
