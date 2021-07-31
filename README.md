@@ -10,7 +10,7 @@ https://github.com/vageeshh/Project_Session/tree/main/Machine_Learning/Data_PreP
 02) EDA
 https://github.com/vageeshh/Project_Session/tree/main/Machine_Learning/EDA
 
-03)Machine learning Algorithms 
+03) Machine learning Algorithms 
 https://github.com/vageeshh/Project_Session/tree/main/Machine_Learning/Machine%20Learning%20Algorithms
 
 04) ML_Projects
