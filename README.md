@@ -5,19 +5,25 @@
 
 ♦️ Follow the Links 
 01) Data Preprocessing
+2) 
 https://github.com/vageeshh/Project_Session/tree/main/Machine_Learning/Data_PreProcessing
 
 02) EDA
+3) 
 https://github.com/vageeshh/Project_Session/tree/main/Machine_Learning/EDA
 
 03) MachineLearningAlgorithms 
+4) 
 https://github.com/vageeshh/Project_Session/tree/main/Machine_Learning/Machine%20Learning%20Algorithms
 
 04) ML_Projects
+5) 
 https://github.com/vageeshh/Project_Session/tree/main/Machine_Learning/ML_Projects
 
 05) Data Collection
+6) 
 https://github.com/vageeshh/Project_Session/tree/main/Machine_Learning/Data_Collection
 
 06) Cheat sheet
+7) 
 https://github.com/vageeshh/Project_Session/tree/main/Machine_Learning/CheatSheets
