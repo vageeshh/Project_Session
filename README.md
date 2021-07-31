@@ -1,7 +1,7 @@
 # Machine Learning project sources for all ML enthusiasts.
-♦️ Made all the folders in a very structured manner to make you flow through this repo easily.
+♦️ Made all the folders are in a very structured manner keepingin mind that you can flow through this repo easily.
 
-♦️ Will Keep Updating this repository.
+♦️ Will Keep Updating this repository so you keep an eye here.
 
 ♦️ Follow the Links 
 01) Data Preprocessing
