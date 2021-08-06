@@ -2,6 +2,7 @@
 
 ♦️ Here are some good Datasets for ML project.
 
+💧 https://www.kaggle.com/competitions
 💧 https://www.kaggle.com/arashnic/fitbit
 
 💧 https://docs.google.com/document/d/1M2xICdAclfYoRDLlheFhwycvs0Obz0n4bNOmFNVuF2A/edit?usp=sharing
