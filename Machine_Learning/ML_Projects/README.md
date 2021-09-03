@@ -2,6 +2,10 @@
 
 ♦️ Here are some good Datasets for ML project.
 
+✅ Websites to search for Datsets https://vagishh.medium.com/where-to-find-datasets-f10b04da04c7
+
+✅ Websites to find Data Science Jobs https://vagishh.medium.com/where-to-find-data-science-jobs-175de5eedc0a
+
 1️⃣ https://www.kaggle.com/competitions
 
 2️⃣ https://www.kaggle.com/arashnic/fitbit
