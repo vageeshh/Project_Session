@@ -21,4 +21,3 @@ In this Tutorial, I have discussed all the Important and prominent Charts and th
 * 9. Introduction to Animated Visualizations
 * 10. Introduction to Interactive Visualizations
 
-If any doubts or suggestions, please leave a message for me on linkedin.
