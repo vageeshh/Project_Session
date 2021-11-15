@@ -28,6 +28,6 @@ https://github.com/vageeshh/Project_Session/tree/main/Machine_Learning/Data_Coll
 
 https://github.com/vageeshh/Project_Session/tree/main/Machine_Learning/Model_Deployment
 
-06) Cheat sheet
+07) Cheat sheet
 
 https://github.com/vageeshh/Project_Session/tree/main/Machine_Learning/CheatSheets
