@@ -24,6 +24,10 @@ https://github.com/vageeshh/Project_Session/tree/main/Machine_Learning/ML_Projec
  
 https://github.com/vageeshh/Project_Session/tree/main/Machine_Learning/Data_Collection
 
+06) Model Deployment
+
+https://github.com/vageeshh/Project_Session/tree/main/Machine_Learning/Model_Deployment
+
 06) Cheat sheet
 
 https://github.com/vageeshh/Project_Session/tree/main/Machine_Learning/CheatSheets
